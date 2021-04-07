@@ -4,7 +4,7 @@ public class HelloAgain{
 // is thsi 
 	public static void main(String[] args) {
 		System.out.println("Hello all");
-		LOGGER.log("Hello");
+//		LOGGER.log("Hello");
 	}
 // this is final comment
 }
